@@ -7,7 +7,7 @@ fraud-streaming/
  ├── backend/
  │    ├── app.py
  │    ├── train.py
- │    ├── creditcard.csv   ❗ (keep locally, DO NOT upload to GitHub)
+ │    ├── creditcard.csv
  │
  └── frontend/
       ├── src/
